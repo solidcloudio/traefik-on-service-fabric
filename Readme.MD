@@ -20,6 +20,8 @@ Integrating Træfik and Azure Service Fabric allows you to configure much more a
 # Deploying Traefik to Azure Service Fabric
 Azure Service Fabric supports many different methods of deploying applications. Please select the most appropriate from the list below.
 * [Windows using Visual Studio](Docs/Deployments/VisualStudio.MD)
+* [Linux using Visual Studio](Docs/Deployments/VisualStudioLinux.MD)
+
 * [Windows, MacOS and Linux using sfctl](Docs/Deployments/sfctl.MD)
 * [Windows, MacOS and Linux using docker](Docs/Deployments/docker.MD) [Not recommended currently]
 
